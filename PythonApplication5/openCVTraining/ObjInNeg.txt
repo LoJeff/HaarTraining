@@ -1,0 +1,12 @@
+neg-3521.jpg, neg-3686.jpg, neg-3689.jpg, neg-3769.jpg, neg-4383.jpg: basketball
+neg-3513.jpg, neg-3748.jpg, neg-4822.jpg: tennisball
+neg-3745.jpg, neg-3809.jpg, neg-3729.jpg: golfball
+neg-3763.jpg: croquet ball
+neg-3763.jpg, neg-3728.jpg: baseball
+neg-3767.jpg: bowlingball
+neg-3830.jpg: pickup jacks w/ ball
+neg-4852.jpg, neg-4855.jpg: soccerball
+neg-3764.jpg, neg-4060.jpg, neg-4306.jpg, neg-4381.jpg, neg-4484.jpg. neg-4639.jpg, neg-4699.jpg, neg-4723.jpg, neg-4817.jpg, neg-4823.jpg, neg-4848.jpg, neg-4856.jpg:plain spherical object
+neg-3851.jpg, neg-3878.jpg, neg-3901.jpg, neg-3919.jpg, neg-4433.jpg, neg-4722.jpg, neg-4720.jpg, neg-4784.jpg, neg-4860.jpg:detailed spherical object
+neg-3722.jpg, neg-3773.jpg, neg-3692.jpg: spherical ornament
+neg-4420.jpg: massaging ball
